@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Nutrition Tracker</string>
+    <string name="search_food_hint">Search for food...</string>
+    <string name="search">Search</string>
+    <string name="calorie_summary_default">Total calories: 0</string>
+    <string name="food_name">Food Name</string>
+    <string name="calories">Calories</string>
+    <string name="protein">Protein (g)</string>
+    <string name="carbs">Carbs (g)</string>
+    <string name="fat">Fat (g)</string>
+    <string name="add_new_food">Add New Food</string>
+    <string name="save_food">Save Food</string>
+    <string name="add_food">Add Food</string>
+    <string name="food_added_success">Food added successfully!</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="set_goals">Set Goals</string>
+    <string name="goals_saved">Goals saved successfully!</string>
+    <string name="calorie_goal">Calorie Goal (kcal)</string>
+    <string name="protein_goal">Protein Goal (g)</string>
+    <string name="carbs_goal">Carbs Goal (g)</string>
+    <string name="fat_goal">Fat Goal (g)</string>
+    <string name="save_goals">Save Goals</string>
+    <string name="progress">Progress: %1$d/%2$d kcal (%3$.0f%%)</string>
+</resources>
